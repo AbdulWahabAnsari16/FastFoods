@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FastFoods>
+
+    <food>
+        <name>
+            Zinger Burger
+        </name>
+        <price>
+            RS.350
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>burger.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Biriyani
+        </name>
+        <price>
+            RS.250
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>biriyani.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Croissants
+        </name>
+        <price>
+            RS.350
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>croissants.webp</image>
+    </food>
+
+    <food>
+        <name>
+            Fried-Chicken
+        </name>
+        <price>
+            RS.350
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>fried-chicken.webp</image>
+    </food>
+
+    <food>
+        <name>
+            Hot Dog
+        </name>
+        <price>
+            RS.400
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>hot-dog.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Kebab
+        </name>
+        <price>
+            RS.250
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>kebab.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Noodle
+        </name>
+        <price>
+            RS.250
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>noodle.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Pasta
+        </name>
+        <price>
+            RS.200
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>pasta.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Pizza
+        </name>
+        <price>
+            RS.200
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>pizza.jpg</image>
+    </food>
+
+    <food>
+        <name>
+            Sandwich
+        </name>
+        <price>
+            RS.300
+        </price>
+        <description>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
+            maiores a neque ea, sapiente voluptate.
+        </description>
+        <calories>
+            500
+        </calories>
+        <image>sandwich.jpg</image>
+    </food>
+
+</FastFoods>
