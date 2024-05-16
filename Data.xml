@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="menu.xsl" type="text/xsl"?>
 
 <FastFoods>
 
@@ -16,7 +17,7 @@
         <calories>
             500
         </calories>
-        <image>burger.jpg</image>
+        <img>images/burger.jpg</img>
     </food>
 
     <food>
@@ -33,7 +34,7 @@
         <calories>
             500
         </calories>
-        <image>biriyani.jpg</image>
+        <img>images/biriyani.jpg</img>
     </food>
 
     <food>
@@ -50,7 +51,7 @@
         <calories>
             500
         </calories>
-        <image>croissants.webp</image>
+        <img>images/croissants.webp</img>
     </food>
 
     <food>
@@ -67,7 +68,7 @@
         <calories>
             500
         </calories>
-        <image>fried-chicken.webp</image>
+        <img>images/fried-chicken.webp</img>
     </food>
 
     <food>
@@ -84,7 +85,7 @@
         <calories>
             500
         </calories>
-        <image>hot-dog.jpg</image>
+        <img>images/hot-dog.jpg</img>
     </food>
 
     <food>
@@ -101,7 +102,7 @@
         <calories>
             500
         </calories>
-        <image>kebab.jpg</image>
+        <img>images/kebab.jpg</img>
     </food>
 
     <food>
@@ -118,7 +119,7 @@
         <calories>
             500
         </calories>
-        <image>noodle.jpg</image>
+        <img>images/noodle.jpg</img>
     </food>
 
     <food>
@@ -135,7 +136,7 @@
         <calories>
             500
         </calories>
-        <image>pasta.jpg</image>
+        <img>images/pasta.jpg</img>
     </food>
 
     <food>
@@ -152,7 +153,7 @@
         <calories>
             500
         </calories>
-        <image>pizza.jpg</image>
+        <img>images/pizza.jpg</img>
     </food>
 
     <food>
@@ -169,7 +170,7 @@
         <calories>
             500
         </calories>
-        <image>sandwich.jpg</image>
+        <img>images/sandwich.jpg</img>
     </food>
 
 </FastFoods>
