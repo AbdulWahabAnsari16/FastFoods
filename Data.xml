@@ -14,9 +14,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/burger.jpg</img>
     </food>
 
@@ -31,9 +28,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/biriyani.jpg</img>
     </food>
 
@@ -48,9 +42,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/croissants.webp</img>
     </food>
 
@@ -65,9 +56,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/fried-chicken.webp</img>
     </food>
 
@@ -82,9 +70,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/hot-dog.jpg</img>
     </food>
 
@@ -99,9 +84,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/kebab.jpg</img>
     </food>
 
@@ -116,9 +98,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/noodle.jpg</img>
     </food>
 
@@ -133,9 +112,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/pasta.jpg</img>
     </food>
 
@@ -150,9 +126,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/pizza.jpg</img>
     </food>
 
@@ -167,9 +140,6 @@
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis necessitatibus itaque
             maiores a neque ea, sapiente voluptate.
         </description>
-        <calories>
-            500
-        </calories>
         <img>images/sandwich.jpg</img>
     </food>
 

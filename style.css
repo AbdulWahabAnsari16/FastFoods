@@ -1,3 +1,26 @@
-.im{
-    width: 30%;
+#img{
+    height: 250px;
+}
+
+.h{
+    text-align: center;
+    color: red;
+    margin-top: 50px;
+}
+
+.carousel{
+   width: 50%;
+}
+
+.sear{
+    width: 100%;
+}
+
+.list{
+    margin-top: 50px;
+    color: darkviolet;
+}
+
+.card{
+    margin-top: 70px;
 }
